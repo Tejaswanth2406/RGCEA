@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/9121d5f7-ee74-435d-9d01-7929b050d129" />
 # RGCEA — Recursive Generative Cognitive Evolution Architecture
 
 A production-grade Python implementation of the **dream-inspired AI cognition** framework described in the source documents.
